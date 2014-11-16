@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 
+#ignoring the files that contain passwords
+secrets.txt
+
 # C extensions
 *.so
 
